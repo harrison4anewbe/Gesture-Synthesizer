@@ -1,5 +1,6 @@
 # Gesture-Synthesizer
-This project aims to create a simple gesture synthesizer that generates gestures based on input text.
+This project aims to create a simple gesture synthesizer that generates gestures based on input text. Demo video located in ./demo.mp4
+
 
 We design our workflow into two parts.
 1. Input text process: We utilize large-language-pretrained-model to process the input text, understanding the inner emotions. Specifically, the system will classify the user input into several emotion categories for further processing.
